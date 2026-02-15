@@ -24,5 +24,6 @@ Backend:
 
 ## System Architecture
 
-![Architecture](Architecture_Diagram.drawio.png)
+![Architecture](Diagrams/Architecture_Diagram.drawio.png)
+
 
