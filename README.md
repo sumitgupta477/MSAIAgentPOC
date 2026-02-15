@@ -1,6 +1,6 @@
-# MSAIAgentPOC
+# CaseAIAgent
 
-AI Agent POC for MS - answers all AI questions and creates Case for all problems/issues/tickets
+AI Agent which also creates a Case - answers all AI questions and creates Case for all problems/issues/tickets
 
 
 
@@ -25,6 +25,7 @@ Backend:
 ## System Architecture
 
 ![Architecture](Diagrams/Diagram_Correct.png)
+
 
 
 
